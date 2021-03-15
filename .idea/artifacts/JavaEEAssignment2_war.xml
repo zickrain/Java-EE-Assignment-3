@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JavaEEAssignment2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>JavaEEAssignment2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="JavaEEAssignment2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JavaEEAssignment2:war exploded" />
+    </root>
+  </artifact>
+</component>
